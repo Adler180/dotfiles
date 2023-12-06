@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oor:items xmlns:oor="http://openoffice.org/2001/registry" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<item oor:path="/org.openoffice.Office.Chart/DefaultColor"><prop oor:name="Series" oor:op="fuse"><value>17798 16728590 16765728 5741852 8257569 8637183 3227652 11456256 4923247 16749838 12910603 34001</value></prop></item>
+<item oor:path="/org.openoffice.Office.Common/Accessibility"><prop oor:name="HighContrast" oor:op="fuse"><value>0</value></prop></item>
+<item oor:path="/org.openoffice.Office.Common/Accessibility"><prop oor:name="IsAllowAnimatedGraphics" oor:op="fuse"><value>true</value></prop></item>
+<item oor:path="/org.openoffice.Office.Common/Accessibility"><prop oor:name="IsAllowAnimatedText" oor:op="fuse"><value>true</value></prop></item>
+<item oor:path="/org.openoffice.Office.Common/Accessibility"><prop oor:name="IsAutomaticFontColor" oor:op="fuse"><value>false</value></prop></item>
+<item oor:path="/org.openoffice.Office.Common/Accessibility"><prop oor:name="IsForPagePreviews" oor:op="fuse"><value>true</value></prop></item>
+<item oor:path="/org.openoffice.Office.Common/Accessibility"><prop oor:name="IsSelectionInReadonly" oor:op="fuse"><value>false</value></prop></item>
+<item oor:path="/org.openoffice.Office.Common/DateFormat"><prop oor:name="TwoDigitYear" oor:op="fuse"><value>1950</value></prop></item>
+<item oor:path="/org.openoffice.Office.Common/ExternalMailer"><prop oor:name="Program" oor:op="fuse"><value>/usr/bin/thunderbird</value></prop></item>
+<item oor:path="/org.openoffice.Office.Common/Font/SourceViewFont"><prop oor:name="FontName" oor:op="fuse"><value>Automatic</value></prop></item>
+<item oor:path="/org.openoffice.Office.Common/Font/Substitution"><prop oor:name="Replacement" oor:op="fuse"><value>false</value></prop></item>
+<item oor:path="/org.openoffice.Office.Common/Misc"><prop oor:name="Appearance" oor:op="fuse"><value>2</value></prop></item>
+<item oor:path="/org.openoffice.Office.Common/Misc"><prop oor:name="FirstRun" oor:op="fuse"><value>false</value></prop></item>
+<item oor:path="/org.openoffice.Office.Common/Misc"><prop oor:name="Persona" oor:op="fuse"><value>no</value></prop></item>
+<item oor:path="/org.openoffice.Office.Common/Misc"><prop oor:name="PersonaSettings" oor:op="fuse"><value></value></prop></item>
+<item oor:path="/org.openoffice.Office.Common/Misc"><prop oor:name="ShowTipOfTheDay" oor:op="fuse"><value>false</value></prop></item>
+<item oor:path="/org.openoffice.Office.Common/Misc"><prop oor:name="SymbolStyle" oor:op="fuse"><value>breeze_dark_svg</value></prop></item>
+<item oor:path="/org.openoffice.Office.Common/Misc"><prop oor:name="UseOpenCL" oor:op="fuse"><value>false</value></prop></item>
+<item oor:path="/org.openoffice.Office.Common/Print/Option/File"><prop oor:name="ConvertToGreyscales" oor:op="fuse"><value>false</value></prop></item>
+<item oor:path="/org.openoffice.Office.Common/Print/Option/File"><prop oor:name="PDFAsStandardPrintJobFormat" oor:op="fuse"><value>true</value></prop></item>
+<item oor:path="/org.openoffice.Office.Common/Print/Option/File"><prop oor:name="ReduceBitmaps" oor:op="fuse"><value>false</value></prop></item>
+<item oor:path="/org.openoffice.Office.Common/Print/Option/File"><prop oor:name="ReduceGradients" oor:op="fuse"><value>false</value></prop></item>
+<item oor:path="/org.openoffice.Office.Common/Print/Option/File"><prop oor:name="ReduceTransparency" oor:op="fuse"><value>false</value></prop></item>
+<item oor:path="/org.openoffice.Office.Common/Print/Option/File"><prop oor:name="ReducedBitmapIncludesTransparency" oor:op="fuse"><value>true</value></prop></item>
+<item oor:path="/org.openoffice.Office.Common/Print/Option/File"><prop oor:name="ReducedBitmapMode" oor:op="fuse"><value>1</value></prop></item>
+<item oor:path="/org.openoffice.Office.Common/Print/Option/File"><prop oor:name="ReducedBitmapResolution" oor:op="fuse"><value>3</value></prop></item>
+<item oor:path="/org.openoffice.Office.Common/Print/Option/File"><prop oor:name="ReducedGradientMode" oor:op="fuse"><value>0</value></prop></item>
+<item oor:path="/org.openoffice.Office.Common/Print/Option/File"><prop oor:name="ReducedGradientStepCount" oor:op="fuse"><value>64</value></prop></item>
+<item oor:path="/org.openoffice.Office.Common/Print/Option/File"><prop oor:name="ReducedTransparencyMode" oor:op="fuse"><value>0</value></prop></item>
+<item oor:path="/org.openoffice.Office.Common/Print/Option/Printer"><prop oor:name="ConvertToGreyscales" oor:op="fuse"><value>false</value></prop></item>
+<item oor:path="/org.openoffice.Office.Common/Print/Option/Printer"><prop oor:name="PDFAsStandardPrintJobFormat" oor:op="fuse"><value>true</value></prop></item>
+<item oor:path="/org.openoffice.Office.Common/Print/Option/Printer"><prop oor:name="ReduceBitmaps" oor:op="fuse"><value>false</value></prop></item>
+<item oor:path="/org.openoffice.Office.Common/Print/Option/Printer"><prop oor:name="ReduceGradients" oor:op="fuse"><value>false</value></prop></item>
+<item oor:path="/org.openoffice.Office.Common/Print/Option/Printer"><prop oor:name="ReduceTransparency" oor:op="fuse"><value>false</value></prop></item>
+<item oor:path="/org.openoffice.Office.Common/Print/Option/Printer"><prop oor:name="ReducedBitmapIncludesTransparency" oor:op="fuse"><value>true</value></prop></item>
+<item oor:path="/org.openoffice.Office.Common/Print/Option/Printer"><prop oor:name="ReducedBitmapMode" oor:op="fuse"><value>1</value></prop></item>
+<item oor:path="/org.openoffice.Office.Common/Print/Option/Printer"><prop oor:name="ReducedBitmapResolution" oor:op="fuse"><value>3</value></prop></item>
+<item oor:path="/org.openoffice.Office.Common/Print/Option/Printer"><prop oor:name="ReducedGradientMode" oor:op="fuse"><value>0</value></prop></item>
+<item oor:path="/org.openoffice.Office.Common/Print/Option/Printer"><prop oor:name="ReducedGradientStepCount" oor:op="fuse"><value>64</value></prop></item>
+<item oor:path="/org.openoffice.Office.Common/Print/Option/Printer"><prop oor:name="ReducedTransparencyMode" oor:op="fuse"><value>0</value></prop></item>
+<item oor:path="/org.openoffice.Office.Common/Security/Scripting"><prop oor:name="RemovePersonalInfoOnSaving" oor:op="fuse"><value>true</value></prop></item>
+<item oor:path="/org.openoffice.Office.Linguistic/General"><prop oor:name="DefaultLocale" oor:op="fuse"><value></value></prop></item>
+<item oor:path="/org.openoffice.Office.Linguistic/General"><prop oor:name="DefaultLocale_CJK" oor:op="fuse"><value></value></prop></item>
+<item oor:path="/org.openoffice.Office.Linguistic/General"><prop oor:name="DefaultLocale_CTL" oor:op="fuse"><value></value></prop></item>
+<item oor:path="/org.openoffice.Office.Linguistic/General/DictionaryList"><prop oor:name="ActiveDictionaries" oor:op="fuse"><value><it>en-GB.dic</it><it>en-US.dic</it><it>technical.dic</it><it>List of Ignored Words</it><it>Deutsch.dic</it></value></prop></item>
+<item oor:path="/org.openoffice.Office.Linguistic/General/DictionaryList"><prop oor:name="IsUseDictionaryList" oor:op="fuse"><value>true</value></prop></item>
+<item oor:path="/org.openoffice.Office.Linguistic/General"><prop oor:name="IsIgnoreControlCharacters" oor:op="fuse"><value>true</value></prop></item>
+<item oor:path="/org.openoffice.Office.Linguistic/GrammarChecking"><prop oor:name="IsAutoCheck" oor:op="fuse"><value>true</value></prop></item>
+<item oor:path="/org.openoffice.Office.Linguistic/GrammarChecking"><prop oor:name="IsInteractiveCheck" oor:op="fuse"><value>true</value></prop></item>
+<item oor:path="/org.openoffice.Office.Linguistic/GrammarChecking/LanguageTool"><prop oor:name="ApiKey" oor:op="fuse"><value></value></prop></item>
+<item oor:path="/org.openoffice.Office.Linguistic/GrammarChecking/LanguageTool"><prop oor:name="BaseURL" oor:op="fuse"><value>https://api.languagetool.org/v2</value></prop></item>
+<item oor:path="/org.openoffice.Office.Linguistic/GrammarChecking/LanguageTool"><prop oor:name="RestProtocol" oor:op="fuse"><value></value></prop></item>
+<item oor:path="/org.openoffice.Office.Linguistic/GrammarChecking/LanguageTool"><prop oor:name="SSLCertVerify" oor:op="fuse"><value>true</value></prop></item>
+<item oor:path="/org.openoffice.Office.Linguistic/GrammarChecking/LanguageTool"><prop oor:name="Username" oor:op="fuse"><value></value></prop></item>
+<item oor:path="/org.openoffice.Office.Linguistic/Hyphenation"><prop oor:name="IsHyphAuto" oor:op="fuse"><value>false</value></prop></item>
+<item oor:path="/org.openoffice.Office.Linguistic/Hyphenation"><prop oor:name="IsHyphSpecial" oor:op="fuse"><value>true</value></prop></item>
+<item oor:path="/org.openoffice.Office.Linguistic/Hyphenation"><prop oor:name="MinLeading" oor:op="fuse"><value>2</value></prop></item>
+<item oor:path="/org.openoffice.Office.Linguistic/Hyphenation"><prop oor:name="MinTrailing" oor:op="fuse"><value>2</value></prop></item>
+<item oor:path="/org.openoffice.Office.Linguistic/Hyphenation"><prop oor:name="MinWordLength" oor:op="fuse"><value>5</value></prop></item>
+<item oor:path="/org.openoffice.Office.Linguistic/ServiceManager"><prop oor:name="DataFilesChangedCheckValue" oor:op="fuse"><value>-1</value></prop></item>
+<item oor:path="/org.openoffice.Office.Linguistic/ServiceManager/LastFoundSpellCheckers"><prop oor:name="de-AT" oor:op="fuse" oor:type="oor:string-list"><value><it>org.openoffice.lingu.MySpellSpellChecker</it></value></prop></item>
+<item oor:path="/org.openoffice.Office.Linguistic/ServiceManager/LastFoundSpellCheckers"><prop oor:name="de-BE" oor:op="fuse" oor:type="oor:string-list"><value><it>org.openoffice.lingu.MySpellSpellChecker</it></value></prop></item>
+<item oor:path="/org.openoffice.Office.Linguistic/ServiceManager/LastFoundSpellCheckers"><prop oor:name="de-CH" oor:op="fuse" oor:type="oor:string-list"><value><it>org.openoffice.lingu.MySpellSpellChecker</it></value></prop></item>
+<item oor:path="/org.openoffice.Office.Linguistic/ServiceManager/LastFoundSpellCheckers"><prop oor:name="de-DE" oor:op="fuse" oor:type="oor:string-list"><value><it>org.openoffice.lingu.MySpellSpellChecker</it></value></prop></item>
+<item oor:path="/org.openoffice.Office.Linguistic/ServiceManager/LastFoundSpellCheckers"><prop oor:name="de-LI" oor:op="fuse" oor:type="oor:string-list"><value><it>org.openoffice.lingu.MySpellSpellChecker</it></value></prop></item>
+<item oor:path="/org.openoffice.Office.Linguistic/ServiceManager/LastFoundSpellCheckers"><prop oor:name="de-LU" oor:op="fuse" oor:type="oor:string-list"><value><it>org.openoffice.lingu.MySpellSpellChecker</it></value></prop></item>
+<item oor:path="/org.openoffice.Office.Linguistic/ServiceManager/LastFoundSpellCheckers"><prop oor:name="en-US" oor:op="fuse" oor:type="oor:string-list"><value><it>org.openoffice.lingu.MySpellSpellChecker</it></value></prop></item>
+<item oor:path="/org.openoffice.Office.Linguistic/ServiceManager/SpellCheckerList"><prop oor:name="de-AT" oor:op="fuse" oor:type="oor:string-list"><value><it>org.openoffice.lingu.MySpellSpellChecker</it></value></prop></item>
+<item oor:path="/org.openoffice.Office.Linguistic/ServiceManager/SpellCheckerList"><prop oor:name="de-BE" oor:op="fuse" oor:type="oor:string-list"><value><it>org.openoffice.lingu.MySpellSpellChecker</it></value></prop></item>
+<item oor:path="/org.openoffice.Office.Linguistic/ServiceManager/SpellCheckerList"><prop oor:name="de-CH" oor:op="fuse" oor:type="oor:string-list"><value><it>org.openoffice.lingu.MySpellSpellChecker</it></value></prop></item>
+<item oor:path="/org.openoffice.Office.Linguistic/ServiceManager/SpellCheckerList"><prop oor:name="de-DE" oor:op="fuse" oor:type="oor:string-list"><value><it>org.openoffice.lingu.MySpellSpellChecker</it></value></prop></item>
+<item oor:path="/org.openoffice.Office.Linguistic/ServiceManager/SpellCheckerList"><prop oor:name="de-LI" oor:op="fuse" oor:type="oor:string-list"><value><it>org.openoffice.lingu.MySpellSpellChecker</it></value></prop></item>
+<item oor:path="/org.openoffice.Office.Linguistic/ServiceManager/SpellCheckerList"><prop oor:name="de-LU" oor:op="fuse" oor:type="oor:string-list"><value><it>org.openoffice.lingu.MySpellSpellChecker</it></value></prop></item>
+<item oor:path="/org.openoffice.Office.Linguistic/ServiceManager/SpellCheckerList"><prop oor:name="en-US" oor:op="fuse" oor:type="oor:string-list"><value><it>org.openoffice.lingu.MySpellSpellChecker</it></value></prop></item>
+<item oor:path="/org.openoffice.Office.Linguistic/SpellChecking"><prop oor:name="IsReverseDirection" oor:op="fuse"><value>false</value></prop></item>
+<item oor:path="/org.openoffice.Office.Linguistic/SpellChecking"><prop oor:name="IsSpellAuto" oor:op="fuse"><value>true</value></prop></item>
+<item oor:path="/org.openoffice.Office.Linguistic/SpellChecking"><prop oor:name="IsSpellCapitalization" oor:op="fuse"><value>true</value></prop></item>
+<item oor:path="/org.openoffice.Office.Linguistic/SpellChecking"><prop oor:name="IsSpellClosedCompound" oor:op="fuse"><value>true</value></prop></item>
+<item oor:path="/org.openoffice.Office.Linguistic/SpellChecking"><prop oor:name="IsSpellHyphenatedCompound" oor:op="fuse"><value>true</value></prop></item>
+<item oor:path="/org.openoffice.Office.Linguistic/SpellChecking"><prop oor:name="IsSpellSpecial" oor:op="fuse"><value>true</value></prop></item>
+<item oor:path="/org.openoffice.Office.Linguistic/SpellChecking"><prop oor:name="IsSpellUpperCase" oor:op="fuse"><value>true</value></prop></item>
+<item oor:path="/org.openoffice.Office.Linguistic/SpellChecking"><prop oor:name="IsSpellWithDigits" oor:op="fuse"><value>false</value></prop></item>
+<item oor:path="/org.openoffice.Office.Linguistic/TextConversion"><prop oor:name="ActiveConversionDictionaries" oor:op="fuse"><value></value></prop></item>
+<item oor:path="/org.openoffice.Office.Linguistic/TextConversion"><prop oor:name="IsAutoCloseDialog" oor:op="fuse"><value>false</value></prop></item>
+<item oor:path="/org.openoffice.Office.Linguistic/TextConversion"><prop oor:name="IsAutoReplaceUniqueEntries" oor:op="fuse"><value>false</value></prop></item>
+<item oor:path="/org.openoffice.Office.Linguistic/TextConversion"><prop oor:name="IsDirectionToSimplified" oor:op="fuse"><value>true</value></prop></item>
+<item oor:path="/org.openoffice.Office.Linguistic/TextConversion"><prop oor:name="IsIgnorePostPositionalWord" oor:op="fuse"><value>true</value></prop></item>
+<item oor:path="/org.openoffice.Office.Linguistic/TextConversion"><prop oor:name="IsReverseMapping" oor:op="fuse"><value>false</value></prop></item>
+<item oor:path="/org.openoffice.Office.Linguistic/TextConversion"><prop oor:name="IsShowEntriesRecentlyUsedFirst" oor:op="fuse"><value>false</value></prop></item>
+<item oor:path="/org.openoffice.Office.Linguistic/TextConversion"><prop oor:name="IsTranslateCommonTerms" oor:op="fuse"><value>false</value></prop></item>
+<item oor:path="/org.openoffice.Office.Linguistic/TextConversion"><prop oor:name="IsUseCharacterVariants" oor:op="fuse"><value>false</value></prop></item>
+<item oor:path="/org.openoffice.Office.Logging/Settings"><node oor:name="org.openoffice.logging.sdbc.DriverManager" oor:op="replace"><prop oor:name="LogLevel" oor:op="fuse"><value>2147483647</value></prop><prop oor:name="DefaultHandler" oor:op="fuse"><value>com.sun.star.logging.FileHandler</value></prop><node oor:name="HandlerSettings"><prop oor:name="FileURL" oor:op="fuse"><value>$(userurl)/$(loggername).log</value></prop></node><prop oor:name="DefaultFormatter" oor:op="fuse"><value>com.sun.star.logging.PlainTextFormatter</value></prop><node oor:name="FormatterSettings"></node></node></item>
+<item oor:path="/org.openoffice.Office.Logging/Settings"><node oor:name="org.openoffice.sdbc.jdbcBridge" oor:op="replace"><prop oor:name="LogLevel" oor:op="fuse"><value>2147483647</value></prop><prop oor:name="DefaultHandler" oor:op="fuse"><value>com.sun.star.logging.FileHandler</value></prop><node oor:name="HandlerSettings"><prop oor:name="FileURL" oor:op="fuse"><value>$(userurl)/$(loggername).log</value></prop></node><prop oor:name="DefaultFormatter" oor:op="fuse"><value>com.sun.star.logging.PlainTextFormatter</value></prop><node oor:name="FormatterSettings"></node></node></item>
+<item oor:path="/org.openoffice.Office.Logging/Settings"><node oor:name="unopkg" oor:op="replace"><prop oor:name="LogLevel" oor:op="fuse"><value>2147483647</value></prop><prop oor:name="DefaultHandler" oor:op="fuse"><value>com.sun.star.logging.FileHandler</value></prop><node oor:name="HandlerSettings"><prop oor:name="FileURL" oor:op="fuse"><value>$(userurl)/$(loggername).log</value></prop></node><prop oor:name="DefaultFormatter" oor:op="fuse"><value>com.sun.star.logging.PlainTextFormatter</value></prop><node oor:name="FormatterSettings"></node></node></item>
+<item oor:path="/org.openoffice.Office.Recovery/RecoveryInfo"><prop oor:name="SessionData" oor:op="fuse"><value>false</value></prop></item>
+<item oor:path="/org.openoffice.Office.Views/Dialogs"><node oor:name="FilePicker_Save" oor:op="replace"><node oor:name="UserData"><prop oor:name="UserItem" oor:op="fuse" oor:type="xs:string"><value>1 file:///usr/bin</value></prop></node><prop oor:name="WindowState" oor:op="fuse"><value xsi:nil="true"/></prop></node></item>
+<item oor:path="/org.openoffice.Office.Views/TabDialogs"><node oor:name="cui/ui/customizedialog/CustomizeDialog" oor:op="replace"><prop oor:name="PageID" oor:op="fuse"><value>menus</value></prop><node oor:name="UserData"></node><prop oor:name="WindowState" oor:op="fuse"><value xsi:nil="true"/></prop></node></item>
+<item oor:path="/org.openoffice.Office.Views/TabPages"><node oor:name="10249" oor:op="replace"><node oor:name="UserData"><prop oor:name="page data" oor:op="fuse" oor:type="xs:string"><value>0</value></prop></node><prop oor:name="WindowState" oor:op="fuse"><value xsi:nil="true"/></prop></node></item>
+<item oor:path="/org.openoffice.Office.Views/TabPages"><node oor:name="10349" oor:op="replace"><node oor:name="UserData"><prop oor:name="page data" oor:op="fuse" oor:type="xs:string"><value>180;1</value></prop></node><prop oor:name="WindowState" oor:op="fuse"><value xsi:nil="true"/></prop></node></item>
+<item oor:path="/org.openoffice.Setup/L10N"><prop oor:name="DateAcceptancePatterns" oor:op="fuse"><value>D/M/Y;D/M</value></prop></item>
+<item oor:path="/org.openoffice.Setup/L10N"><prop oor:name="DecimalSeparatorAsLocale" oor:op="fuse"><value>true</value></prop></item>
+<item oor:path="/org.openoffice.Setup/L10N"><prop oor:name="IgnoreLanguageChange" oor:op="fuse"><value>false</value></prop></item>
+<item oor:path="/org.openoffice.Setup/L10N"><prop oor:name="ooLocale" oor:op="fuse"><value>en-US</value></prop></item>
+<item oor:path="/org.openoffice.Setup/L10N"><prop oor:name="ooSetupCurrency" oor:op="fuse"><value>EUR-nds-DE</value></prop></item>
+<item oor:path="/org.openoffice.Setup/L10N"><prop oor:name="ooSetupSystemLocale" oor:op="fuse"><value></value></prop></item>
+<item oor:path="/org.openoffice.Setup/Office/Factories/org.openoffice.Setup:Factory['com.sun.star.frame.StartModule']"><prop oor:name="ooSetupFactoryWindowAttributes" oor:op="fuse"><value>10,36,1901,1155;1;,,,;</value></prop></item>
+<item oor:path="/org.openoffice.Setup/Office"><prop oor:name="LastCompatibilityCheckID" oor:op="fuse"><value>60(Build:2)</value></prop></item>
+<item oor:path="/org.openoffice.Setup/Office"><prop oor:name="OfficeRestartInProgress" oor:op="fuse"><value>false</value></prop></item>
+<item oor:path="/org.openoffice.Setup/Office"><prop oor:name="ooSetupInstCompleted" oor:op="fuse"><value>true</value></prop></item>
+<item oor:path="/org.openoffice.UserProfile/Data"><prop oor:name="c" oor:op="fuse"><value></value></prop></item>
+<item oor:path="/org.openoffice.UserProfile/Data"><prop oor:name="encryptionkey" oor:op="fuse"><value></value></prop></item>
+<item oor:path="/org.openoffice.UserProfile/Data"><prop oor:name="encrypttoself" oor:op="fuse"><value>true</value></prop></item>
+<item oor:path="/org.openoffice.UserProfile/Data"><prop oor:name="facsimiletelephonenumber" oor:op="fuse"><value></value></prop></item>
+<item oor:path="/org.openoffice.UserProfile/Data"><prop oor:name="givenname" oor:op="fuse"><value></value></prop></item>
+<item oor:path="/org.openoffice.UserProfile/Data"><prop oor:name="homephone" oor:op="fuse"><value></value></prop></item>
+<item oor:path="/org.openoffice.UserProfile/Data"><prop oor:name="initials" oor:op="fuse"><value></value></prop></item>
+<item oor:path="/org.openoffice.UserProfile/Data"><prop oor:name="l" oor:op="fuse"><value></value></prop></item>
+<item oor:path="/org.openoffice.UserProfile/Data"><prop oor:name="mail" oor:op="fuse"><value></value></prop></item>
+<item oor:path="/org.openoffice.UserProfile/Data"><prop oor:name="o" oor:op="fuse"><value></value></prop></item>
+<item oor:path="/org.openoffice.UserProfile/Data"><prop oor:name="position" oor:op="fuse"><value></value></prop></item>
+<item oor:path="/org.openoffice.UserProfile/Data"><prop oor:name="postalcode" oor:op="fuse"><value></value></prop></item>
+<item oor:path="/org.openoffice.UserProfile/Data"><prop oor:name="signingkey" oor:op="fuse"><value></value></prop></item>
+<item oor:path="/org.openoffice.UserProfile/Data"><prop oor:name="sn" oor:op="fuse"><value></value></prop></item>
+<item oor:path="/org.openoffice.UserProfile/Data"><prop oor:name="st" oor:op="fuse"><value></value></prop></item>
+<item oor:path="/org.openoffice.UserProfile/Data"><prop oor:name="street" oor:op="fuse"><value></value></prop></item>
+<item oor:path="/org.openoffice.UserProfile/Data"><prop oor:name="telephonenumber" oor:op="fuse"><value></value></prop></item>
+<item oor:path="/org.openoffice.UserProfile/Data"><prop oor:name="title" oor:op="fuse"><value></value></prop></item>
+</oor:items>
